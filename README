@@ -1,0 +1,10 @@
+Things I need to make the AWS master profile.
+
+-Inherted class for all the aws services to refernace back to
+
+
+Needed from each Service
+
+ec2
+  -Check insances and states.
+  -
